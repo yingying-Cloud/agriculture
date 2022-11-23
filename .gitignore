@@ -1,0 +1,12 @@
+.project
+.classpath
+/src/test/
+/.settings/
+/target/
+/transaction-logs/
+
+### IntelliJ IDEA ###
+/.idea/
+*.iws
+*.iml
+*.ipr
